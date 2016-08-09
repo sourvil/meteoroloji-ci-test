@@ -1,3 +1,3 @@
-﻿Meteoroloji CI Test uygulaması
+﻿Meteoroloji CI Test uygulaması -
 
 
